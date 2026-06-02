@@ -54,3 +54,25 @@ Observação do handshake TLS e comunicação criptografada.
 * Análise de HTTP
 * Análise de VLANs
 * Capturas avançadas
+
+## Evidências
+
+### DNS
+
+![DNS Analysis](screenshots/dns-analysis.png)
+
+### ARP
+
+![ARP Analysis](screenshots/arp-analysis.png)
+
+### ICMP
+
+![ICMP Analysis](screenshots/icmp-analysis.png)
+
+### TCP Handshake
+
+![TCP Handshake](screenshots/tcp-handshake.png)
+
+### HTTPS/TLS
+
+![HTTPS Analysis](screenshots/https-analysis.png)
