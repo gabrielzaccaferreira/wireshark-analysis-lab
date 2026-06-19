@@ -1,4 +1,8 @@
+# Wireshark Analysis Lab
 
+Laboratório prático de análise de protocolos de rede com Wireshark, cobrindo DNS, ARP, ICMP, TCP e HTTPS/TLS por meio de capturas, filtros e evidências documentadas.
+
+---
 
 ## Sumário
 
@@ -11,7 +15,7 @@
 - [Evidências](#evidências)
 - [Laboratórios do SOC Home Lab](#-laboratórios-do-soc-home-lab)
 
-# Wireshark Analysis Lab
+---
 
 ## Objetivo
 
